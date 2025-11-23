@@ -38,7 +38,7 @@ It includes data preprocessing, model training, model comparison, and generating
 ## 🧪 Models Compared
 | Model | Accuracy | Notes |
 |-------|----------|-------|
-| **Linear Regression** | **82%** | Best performance, simplest & interpretable |
+| **Linear Regression** | **~82%** | Best performance, simplest & interpretable |
 | Random Forest | ~80% | Good but complex |
 | Decision Tree | ~61% | Overfits easily |
 
