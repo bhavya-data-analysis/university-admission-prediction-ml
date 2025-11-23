@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" width="100%" />
+</p>
+
 # 🎓 University Admission Prediction (Machine Learning Project)
 
 This project predicts a student's probability of getting admitted into a graduate program using machine learning.  
